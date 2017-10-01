@@ -1,5 +1,5 @@
 package ru.caf82.lectures.diagramBomberman.diagram;
 
-public interface FileWorker {
-    void work();
+public interface Dao {
+    void dao();
 }
